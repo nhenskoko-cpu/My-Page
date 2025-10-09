@@ -4,7 +4,7 @@ Growth and Shine
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nena’s Magical Learn & Grow Page</title>
+<title>Aurena’s Magical Learn & Grow Page</title>
 
 <!-- Google Font -->
 <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap" rel="stylesheet">
